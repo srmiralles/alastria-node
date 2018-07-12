@@ -43,5 +43,6 @@
 | Councilbox | Rodrigo Martínez Castaño (@brunneis, rodrigo.martinez@councilbox.com) | OVH (2C/4GB/30GB) | DazpUWjgOy7aYpUbhfE/Zr2zGaKHWtF4M9Jup8VjG1g= | enode://c8ecf452708c623c8468054e6096a7dd3d0abab5c353e084cb4d2e9362258c4144295020aa97dd2122c17773e2bcf5de12c4d240dd43f878a3b82e96d874d0ff@51.68.123.147:21000?discport=0 |
 | Altran | Jesús F. Parra Pérez (jesusfernando.parra@altran.com) | Arsys (2C/4Gb/50Gb) | 2mY4kl8+gJmUtoMvF4IAW9B7o1F64sRhlIGcnYR5D1I= | enode://81a2d5c0339df85d4df73248cb9392334821c28870d7bdd89c1868b028124b0c3a178beac4ba01db3b6e118df902086bd7969ceb20db3c6e66492b835cd1e6fc@82.223.73.231:21000?discport=0 |
 | GFT | Ignacio Asin (ignacio.asin@gft.com) | Amazon AWS (2C/4Gb/40Gb) | c7CIePkvOjXC6EIv8iC7Y6KjrzIN2FJ0eULWNMBetlE= | enode://adc6f34e0e411f32956b7871beea33fa7fea3d602e041ed444dfeca3c90eb349ea348671c6e36ece9bfb0c49c90450b0e9799a1a93a280455c7313088a7c18f0@34.254.115.212:21000?discport=0 |
+| Cuatrecasas | Xavi Gonzalez (xavi.gonzalez@cuatrecasas.com), German Miralles (german.miralles@cuatrecasas.com) | Azure (2C/4GB/30GB) | NHuUIgJ/GuMFpMisxOgeCdSLaiZbzr3IShqI5gS/KXk= | enode://e147243349f251056d9dfc94b109428bd4b4c8df9a699b7755a45d3e9d33d31d67b5d6be43b57e3642a97670c21498e2831cdf2875fe1c282f31105d61a15362@40.115.14.40:21000?discport=0 |
 
 * **Clave private for**: se extrae del fichero `~/alastria/data/constellation/keystore/node.pub`.
